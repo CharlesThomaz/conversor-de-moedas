@@ -1,7 +1,7 @@
 
 # 💱 Convert - Conversor de Moedas
 
-Este é um projeto simples de **conversor de moedas** desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele permite que o usuário insira um valor em moeda estrangeira (USD, EUR ou GBP) e converta para o valor equivalente em **Reais (BRL)**, utilizando cotações atualizadas da API [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas).
+Este é um projeto simples de **conversor de moedas** desenvolvido com **HTML**, **CSS** e **JavaScript**. Ele permite que o usuário insira um valor em moeda estrangeira (USD, EUR ou GBP) e converta para o valor equivalente em **Reais (BRL)**.
 
 ## 📸 Preview
 
